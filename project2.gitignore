@@ -1,0 +1,28 @@
+# --- Unity/IDE 临时文件 ---
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+UserSettings/
+MemoryCaptures/
+CrashReports/
+#.vs/  # 如果你用 VS，可忽略
+.vscode/
+.idea/
+
+# --- 平台与包管理 ---
+.gradle/
+*.apk
+*.aab
+
+# --- OS/杂项 ---
+.DS_Store
+Thumbs.db
+
+# --- Unity 资源包/缓存 ---
+*.unitypackage
+
+# --- 只跟踪这些关键目录 ---
+# Assets, ProjectSettings, Packages 会被跟踪（不要在 .gitignore 里屏蔽它们）

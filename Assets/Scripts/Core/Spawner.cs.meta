@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9c1900bf98062d94d8566d3755e23dca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {instanceID: 0}
+  - infantryPrefab: {fileID: 4072570674000666485, guid: 14703d5af7a13e8469424ad7be337b78, type: 3}
+  - cavalryPrefab: {fileID: 2794241093275812189, guid: 882906ffcea8513428fc89df6e5d5aba, type: 3}
+  - magePrefab: {fileID: 1129884008979736643, guid: b3f5050a846ff9f4e8f65abb75431cd3, type: 3}
+  - infantryCfg: {fileID: 11400000, guid: f1ae46e585c37794680d7c3f4253a9e1, type: 2}
+  - cavalryCfg: {fileID: 11400000, guid: f0f9f9c7d52c7e54bb03d747cca9e4a9, type: 2}
+  - mageCfg: {fileID: 11400000, guid: 34766cce9ee609e4ba94d0a9182acdf0, type: 2}
+  - goldText: {instanceID: 0}
+  - infantryBtn: {instanceID: 0}
+  - cavalryBtn: {instanceID: 0}
+  - mageBtn: {instanceID: 0}
+  - infantryCD: {instanceID: 0}
+  - cavalryCD: {instanceID: 0}
+  - mageCD: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
