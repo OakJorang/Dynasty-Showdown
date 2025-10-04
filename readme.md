@@ -31,3 +31,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/OakJorang/Dynasty-Showdown.git
+
+## 🚀 Group
+- **HaoangZhao 6411224 Yeqing Chen 6420167**
+
